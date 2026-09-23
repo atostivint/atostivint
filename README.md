@@ -10,12 +10,17 @@ I'm a cloud architect who enjoys building things, understanding how they work, a
 - Building a BC-250
 - Setting up a single-node Kubernetes cluster on LXC
 
-## A few things I build and run
+## Cloud & homelab
 
-- **Homelab:** Proxmox on an Asus G55VW, with virtual machines and LXC containers
-- **Services:** Home Assistant and YunoHost for private services
-- **Cloud:** Small projects and infrastructure across AWS and Cloudflare
-- **AI tooling:** Experimenting with Hermes Agent, Codex, and OpenCodeGo
+**Homelab footprint (local state/config):** 1 Proxmox node · 3 virtual machines (2 Terraform-managed) · 6 LXC containers.
+
+**Home Assistant:** ~577 entities, including 339 active in the inventory snapshot from 20 August 2026.
+
+Proxmox · Home Assistant · YunoHost for private services · Kubernetes · AWS · Cloudflare
+
+**AI tooling:** Experimenting with Hermes Agent, Codex, and OpenCodeGo.
+
+![Birds: 1](assets/birds-1.svg)
 
 ## Side project
 
