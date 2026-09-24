@@ -20,12 +20,6 @@ Proxmox · Home Assistant · YunoHost for private services · Kubernetes · AWS 
 
 **AI tooling:** Experimenting with Hermes Agent, Codex, and OpenCodeGo.
 
-## Side project
-
-[**SmokeyRoadRage**](https://github.com/atostivint/SmokeyRoadRage) · A game jam project.
-
----
-
 <p align="right">
   <img src="assets/minos-idle.gif" alt="Minos resting" width="96">
 </p>
