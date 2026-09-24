@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Alexandre Tostivint 👋
 
-<!--
-**atostivint/atostivint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud architecture · Homelab · Side projects**
 
-Here are some ideas to get you started:
+I'm a cloud architect who enjoys building things, understanding how they work, and trying ideas out. My interests range from cloud architecture to homelab infrastructure and small creative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- Exploring my next opportunity in cloud architecture
+- Building a BC-250
+- Setting up a single-node Kubernetes cluster on LXC
+
+## Cloud & homelab
+
+![Proxmox nodes: 1](assets/stats/proxmox-nodes.svg) ![Virtual machines: 3](assets/stats/virtual-machines.svg) ![LXC containers: 6](assets/stats/lxc-containers.svg) ![Home Assistant entities: about 577](assets/stats/ha-entities.svg)
+
+<sub>Local state/config: 2 of 3 VMs are Terraform-managed. Home Assistant snapshot from 20 August 2026: ~577 entities, 339 active.</sub>
+
+Proxmox · Home Assistant · YunoHost for private services · Kubernetes · AWS · Cloudflare
+
+**AI tooling:** Experimenting with Hermes Agent, Codex, and OpenCodeGo.
+
+## Side project
+
+[**SmokeyRoadRage**](https://github.com/atostivint/SmokeyRoadRage) · A game jam project.
+
+---
+
+<p align="right">
+  <img src="assets/minos-idle.gif" alt="Minos resting" width="96">
+</p>

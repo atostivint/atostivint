@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122" height="20" viewBox="0 0 122 20" role="img" aria-labelledby="title">
+  <title id="title">Home Assistant entities: approximately 577</title>
+  <rect width="122" height="20" rx="3" fill="#555"/>
+  <rect x="82" width="40" height="20" rx="3" fill="#2c6a78"/>
+  <text x="6" y="13.5" fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="10">HA entities</text>
+  <text x="102" y="13.5" text-anchor="middle" fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="10">~577</text>
+</svg>
