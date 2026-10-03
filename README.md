@@ -24,6 +24,10 @@ I enjoy building things, understanding how they work, and sharing what I learn.
 **Automation:** Python · Bash · CI/CD  
 **Architecture:** FinOps · AWS Well-Architected · serverless · security and governance
 
+## Certifications
+
+**AWS:** 4 certifications · **Azure:** 2 certifications
+
 ## Let's connect
 
 Based near Rennes, France. I work in French and English, and I'm open to cloud architecture opportunities, consulting, and technical collaboration.
