@@ -29,3 +29,7 @@ I enjoy building things, understanding how they work, and sharing what I learn.
 Based near Rennes, France. I work in French and English, and I'm open to cloud architecture opportunities, consulting, and technical collaboration.
 
 [Portfolio](https://alexandre.tostivint.bzh/) · [LinkedIn](https://www.linkedin.com/in/alexandretostivint/)
+
+<p align="right">
+  <img src="assets/minos-idle.gif" alt="Minos resting" width="96">
+</p>
