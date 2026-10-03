@@ -12,21 +12,12 @@ I enjoy building things, understanding how they work, and sharing what I learn.
 - **Kubernetes and GitOps:** running a personal k3s homelab on Proxmox, with Terraform, Ansible, and Flux.
 - **AI tooling:** experimenting with agent memory, MCP integrations, and adaptive reasoning effort.
 
-## Selected projects
-
-- [**Hermes Adaptive Effort**](https://github.com/atostivint/hermes-adaptive-effort) — an opt-in plugin that selects reasoning effort for each user turn. It preserves the original request when scoring fails.
-- [**OneNote MCP Server**](https://github.com/atostivint/onenote-mcp-server) — my maintained fork of a OneNote integration for AI assistants, with added write operations and fixes.
-
 ## Tools I work with
 
 **Cloud:** AWS · Azure · GCP  
 **Infrastructure:** Terraform · CloudFormation · Ansible · Kubernetes · Docker · Flux  
 **Automation:** Python · Bash · CI/CD  
 **Architecture:** FinOps · AWS Well-Architected · serverless · security and governance
-
-## Certifications
-
-**AWS:** 4 certifications · **Azure:** 2 certifications
 
 ## Let's connect
 
