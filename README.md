@@ -30,7 +30,14 @@ I build and publish plugins for [Hermes Agent](https://github.com/NousResearch/h
 
 ## Certifications
 
-**AWS:** 4 certifications · **Azure:** 2 certifications
+<p>
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional"><img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" height="88"></a>
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-devops-engineer-professional"><img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" height="88"></a>
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" height="88"></a>
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-ai-practitioner"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" height="88"></a>
+</p>
+
+**Azure:** 2 certifications
 
 ## Let's connect
 
