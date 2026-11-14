@@ -16,10 +16,10 @@ I like building things, and I want to know how they actually work. What I learn 
 
 I build and publish plugins for [Hermes Agent](https://github.com/NousResearch/hermes-agent), listed on the [Hermes Marketplace](https://hermes-agent.nousresearch.com/marketplace). Each one does a single job, stays off until you enable it, writes nothing behind your back, and fails without taking anything else down with it.
 
-- [**Hermes Adaptive Effort**](https://hermes-agent.nousresearch.com/marketplace/hermes-adaptive-effort) — a separate scorer picks the reasoning effort for each request, from Jev, OpenAI Decisions, Cloudflare Clef, OpenRouter, or your own model. Off by default, fails open. ([GitHub](https://github.com/atostivint/hermes-adaptive-effort))
-- [**Hermes Vitals Light**](https://hermes-agent.nousresearch.com/marketplace/hermes-vitals-light) — CPU, load, free RAM, CPU pressure and round-trip time of the connected server, in the Desktop status bar, plus an optional TUI card. ([GitHub](https://github.com/atostivint/hermes-vitals-light))
-- [**whoami**](https://hermes-agent.nousresearch.com/marketplace/whoami) — a coloured pill in the composer showing which profile the next session will use. ([GitHub](https://github.com/atostivint/hermes-whoami))
-- **Hermes Hindsight Plus** — experimental: injects Hindsight mental models into the first turn of a session. Work in progress, not release-ready. ([GitHub](https://github.com/atostivint/hermes-hindsight-plus))
+- [**Hermes Adaptive Effort**](https://hermes-agent.nousresearch.com/marketplace/hermes-adaptive-effort): a separate scorer picks the reasoning effort for each request, from Jev, OpenAI Decisions, Cloudflare Clef, OpenRouter, or your own model. Off by default, fails open. ([GitHub](https://github.com/atostivint/hermes-adaptive-effort))
+- [**Hermes Vitals Light**](https://hermes-agent.nousresearch.com/marketplace/hermes-vitals-light): CPU, load, free RAM, CPU pressure and round-trip time of the connected server, in the Desktop status bar, plus an optional TUI card. ([GitHub](https://github.com/atostivint/hermes-vitals-light))
+- [**whoami**](https://hermes-agent.nousresearch.com/marketplace/whoami): a coloured pill in the composer showing which profile the next session will use. ([GitHub](https://github.com/atostivint/hermes-whoami))
+- **Hermes Hindsight Plus**, experimental: injects Hindsight mental models into the first turn of a session. Work in progress, not release-ready. ([GitHub](https://github.com/atostivint/hermes-hindsight-plus))
 
 ## Tools I work with
 
