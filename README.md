@@ -31,13 +31,13 @@ I build and publish plugins for [Hermes Agent](https://github.com/NousResearch/h
 ## Certifications
 
 <p>
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional"><img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" height="88"></a>
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-devops-engineer-professional"><img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" height="88"></a>
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" height="88"></a>
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-ai-practitioner"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" height="88"></a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/21Y63B62CN4EQ2WE"><img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" height="88"></a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0QCVWRNLFM141Z5D"><img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" height="88"></a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/C1KCZ8T2KBRQ1H97"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" height="88"></a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/9f99ed898f704784b63ffdaff54bc3ab"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" height="88"></a>
+  <a href="https://learn.microsoft.com/fr-fr/users/atostivint/credentials/aa018fbfbd69c281"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="Microsoft Certified: Azure DevOps Engineer Expert" height="88"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/fr-fr/atostivint/AE1E15066B027E25?sharingId=AA1D7245678CBBD5"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Microsoft Certified: Azure Security Engineer Associate" height="88"></a>
 </p>
-
-**Azure:** 2 certifications
 
 ## Let's connect
 
