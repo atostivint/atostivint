@@ -39,6 +39,8 @@ I build and publish plugins for [Hermes Agent](https://github.com/NousResearch/h
   <a href="https://learn.microsoft.com/api/credentials/share/fr-fr/atostivint/AE1E15066B027E25?sharingId=AA1D7245678CBBD5"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Microsoft Certified: Azure Security Engineer Associate" height="88"></a>
 </p>
 
+<sub>Microsoft Certified: Azure DevOps Engineer Expert · Azure Security Engineer Associate</sub>
+
 ## Let's connect
 
 Based near Rennes, France, working in French and English. I'm open to cloud architecture opportunities, consulting, and technical collaboration. A short message describing the problem is enough to start.
