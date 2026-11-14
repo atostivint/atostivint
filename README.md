@@ -35,11 +35,9 @@ I build and publish plugins for [Hermes Agent](https://github.com/NousResearch/h
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0QCVWRNLFM141Z5D"><img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" height="88"></a>
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/C1KCZ8T2KBRQ1H97"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" height="88"></a>
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/9f99ed898f704784b63ffdaff54bc3ab"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" height="88"></a>
-  <a href="https://learn.microsoft.com/fr-fr/users/atostivint/credentials/aa018fbfbd69c281"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="Microsoft Certified: Azure DevOps Engineer Expert" height="88"></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/fr-fr/atostivint/AE1E15066B027E25?sharingId=AA1D7245678CBBD5"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Microsoft Certified: Azure Security Engineer Associate" height="88"></a>
+  <a href="https://learn.microsoft.com/fr-fr/users/atostivint/credentials/aa018fbfbd69c281"><img src="https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/linkedin_thumb_CERT-Expert-DevOps-Engineer-600x600.png" alt="Microsoft Certified: Azure DevOps Engineer Expert" height="88"></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/fr-fr/atostivint/AE1E15066B027E25?sharingId=AA1D7245678CBBD5"><img src="https://images.credly.com/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/linkedin_thumb_azure-security-engineer-associate600x600.png" alt="Microsoft Certified: Azure Security Engineer Associate" height="88"></a>
 </p>
-
-<sub>Microsoft Certified: Azure DevOps Engineer Expert · Azure Security Engineer Associate</sub>
 
 ## Let's connect
 
