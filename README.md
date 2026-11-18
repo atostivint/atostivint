@@ -43,7 +43,7 @@ I build and publish plugins for [Hermes Agent](https://github.com/NousResearch/h
 
 Based near Rennes, France, working in French and English. I'm open to cloud architecture opportunities, consulting, and technical collaboration. A short message describing the problem is enough to start.
 
-[Blog](https://atostivint.hashnode.dev/) · [LinkedIn](https://www.linkedin.com/in/alexandretostivint/)
+[Blog](https://hashnode.com/@atostivint) · [LinkedIn](https://www.linkedin.com/in/alexandretostivint/)
 
 <p align="right">
   <img src="assets/minos-idle.gif" alt="Minos resting" width="96">
